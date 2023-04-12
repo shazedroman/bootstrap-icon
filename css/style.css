@@ -1,0 +1,17 @@
+
+.h1{
+	text-align: center;
+	color: red;
+}
+.common{
+	font-size: 60px;
+	color: green;
+}
+.mile{
+	font-size: 60px;
+	color: yellow;
+}
+.heart{
+	color: red;
+	font-size: 60px;
+}
